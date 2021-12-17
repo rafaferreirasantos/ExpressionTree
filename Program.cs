@@ -26,6 +26,10 @@ namespace ExpressionTree
             Expression<Func<MyClass, int>> myExpression = myClass => myClass.SumValues(3, 4);
             Expression<Action<MyClass>> myExpression2 = myClass => myClass.PrintHelloWorld();
 
+            Console.WriteLine("Agora com expressions...");
+            Console.WriteLine(myExpression.Compile().Invoke(mC));
+            myExpression2.Compile().Invoke(mC);
+
         }
     }
 }
