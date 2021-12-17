@@ -1,0 +1,15 @@
+C:\Users\osmar\Desktop\Learning\Balta.io\ExpressionTree\bin\Debug\net6.0\ExpressionTree.exe
+C:\Users\osmar\Desktop\Learning\Balta.io\ExpressionTree\bin\Debug\net6.0\ExpressionTree.deps.json
+C:\Users\osmar\Desktop\Learning\Balta.io\ExpressionTree\bin\Debug\net6.0\ExpressionTree.runtimeconfig.json
+C:\Users\osmar\Desktop\Learning\Balta.io\ExpressionTree\bin\Debug\net6.0\ExpressionTree.dll
+C:\Users\osmar\Desktop\Learning\Balta.io\ExpressionTree\bin\Debug\net6.0\ref\ExpressionTree.dll
+C:\Users\osmar\Desktop\Learning\Balta.io\ExpressionTree\bin\Debug\net6.0\ExpressionTree.pdb
+C:\Users\osmar\Desktop\Learning\Balta.io\ExpressionTree\obj\Debug\net6.0\ExpressionTree.csproj.AssemblyReference.cache
+C:\Users\osmar\Desktop\Learning\Balta.io\ExpressionTree\obj\Debug\net6.0\ExpressionTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osmar\Desktop\Learning\Balta.io\ExpressionTree\obj\Debug\net6.0\ExpressionTree.AssemblyInfoInputs.cache
+C:\Users\osmar\Desktop\Learning\Balta.io\ExpressionTree\obj\Debug\net6.0\ExpressionTree.AssemblyInfo.cs
+C:\Users\osmar\Desktop\Learning\Balta.io\ExpressionTree\obj\Debug\net6.0\ExpressionTree.csproj.CoreCompileInputs.cache
+C:\Users\osmar\Desktop\Learning\Balta.io\ExpressionTree\obj\Debug\net6.0\ExpressionTree.dll
+C:\Users\osmar\Desktop\Learning\Balta.io\ExpressionTree\obj\Debug\net6.0\ref\ExpressionTree.dll
+C:\Users\osmar\Desktop\Learning\Balta.io\ExpressionTree\obj\Debug\net6.0\ExpressionTree.pdb
+C:\Users\osmar\Desktop\Learning\Balta.io\ExpressionTree\obj\Debug\net6.0\ExpressionTree.genruntimeconfig.cache
